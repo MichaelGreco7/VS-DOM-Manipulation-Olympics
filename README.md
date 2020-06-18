@@ -2,4 +2,4 @@
 
 ## Made with HTML CSS & JavaScript
 
-[Live Demo]()
+[Live Demo](https://michaelgreco7.github.io/VS-DOM-Manipulation-Olympics/)
